@@ -21,7 +21,7 @@ h1,h2,h3,h4, .navbar-nav a {
 }
 
 .green {
-	color: #999D4F;
+	color: #999d4f;
 }
 
 img {
@@ -71,7 +71,7 @@ a:hover { text-decoration: none; }
 .sk-spinner-rotating-plane.sk-spinner {
   width: 30px;
   height: 30px;
-  background-color: #a4c639;
+  background-color: #e8foa2;
   -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
           animation: sk-rotatePlane 1.2s infinite ease-in-out; }
 
@@ -156,7 +156,7 @@ a:hover { text-decoration: none; }
 .tm-home {
   background: url('../images/Desain tanpa judul_20260514_085842_0000.png') no-repeat center center;
   background-size: cover;
-  color: #ffffff;
+  color: #a4565c;
   text-align: center;
   vertical-align: middle;
   padding-top: 120px;
@@ -172,7 +172,7 @@ a:hover { text-decoration: none; }
   text-transform: none;
 }
 .tm-home .btn {
-  background: #ffffff;
+  background: #fae6e7;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
   border: none;
