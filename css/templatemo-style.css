@@ -194,7 +194,7 @@ a:hover { text-decoration: none; }
 .tm-icons .tm-icon-1,
 .tm-icons .tm-icon-2,
 .tm-icons .tm-icon-3 {
-  background: #fae6e7;
+  background: #ffffff;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
   cursor: pointer;
@@ -313,7 +313,7 @@ a:hover { text-decoration: none; }
           justify-content: center;
 }
 .tm-team .media {
-  background: #fae6e7;
+  background: #ffffff;
   -webkit-box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
           box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
   position: relative;
