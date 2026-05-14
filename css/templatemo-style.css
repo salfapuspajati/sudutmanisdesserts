@@ -66,7 +66,7 @@ a:hover { text-decoration: none; }
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background: none repeat scroll 0 0 #c2c395;
+  background: none repeat scroll 0 0 #ecc4c3;
 }
 .sk-spinner-rotating-plane.sk-spinner {
   width: 30px;
@@ -172,7 +172,7 @@ a:hover { text-decoration: none; }
   text-transform: none;
 }
 .tm-home .btn {
-  background: #fae6e7;
+  background: #c2c395;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
   border: none;
@@ -186,7 +186,7 @@ a:hover { text-decoration: none; }
   -webkit-transition: all 0.4s ease-in-out;
           transition: all 0.4s ease-in-out;
 }
-.tm-home .btn:hover { background: #928e5e; }
+.tm-home .btn:hover { background: #ddd3c9; }
 
 /* social icons section */
 .tm-icons .media .media-heading { padding-bottom: 10px; }
