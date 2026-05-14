@@ -66,7 +66,7 @@ a:hover { text-decoration: none; }
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background: none repeat scroll 0 0 #ffffff;
+  background: none repeat scroll 0 0 #fae6e7;
 }
 .sk-spinner-rotating-plane.sk-spinner {
   width: 30px;
@@ -194,7 +194,7 @@ a:hover { text-decoration: none; }
 .tm-icons .tm-icon-1,
 .tm-icons .tm-icon-2,
 .tm-icons .tm-icon-3 {
-  background: #ffffff;
+  background: #fae6e7;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
   cursor: pointer;
@@ -269,7 +269,7 @@ a:hover { text-decoration: none; }
 
 /* service section */
 .tm-service {
-  background: #ffffff;
+  background: #fae6e7;
   padding-top: 140px;
   padding-bottom: 60px;
   text-align: center;
@@ -313,7 +313,7 @@ a:hover { text-decoration: none; }
           justify-content: center;
 }
 .tm-team .media {
-  background: #ffffff;
+  background: #fae6e7;
   -webkit-box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
           box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
   position: relative;
@@ -329,7 +329,7 @@ a:hover { text-decoration: none; }
 
 /* portfolio section */
 .tm-portfolio {
-  background: #ffffff;
+  background: #e7b4b9;
   text-align: center;
   vertical-align: middle;
   padding-top: 80px;
