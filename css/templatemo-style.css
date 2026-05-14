@@ -21,7 +21,7 @@ h1,h2,h3,h4, .navbar-nav a {
 }
 
 .green {
-	color: #999d4f;
+	color: #575527;
 }
 
 img {
@@ -104,7 +104,7 @@ a:hover { text-decoration: none; }
 /* navigation section */
 .sticky-navigation { opacity: 0; }
 .navbar-default {
-  background: #fff;
+  background: #ddd3c9;
   border: none;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
@@ -123,16 +123,16 @@ a:hover { text-decoration: none; }
   padding-right: 20px;
   padding-left: 20px;
 }
-.navbar-default .navbar-nav li a:hover { color: #a4c639; }
+.navbar-default .navbar-nav li a:hover { color: #575527; }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #a4c639;
+  color: #575527;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #a4c639;
+  color: #575527;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle {
@@ -140,7 +140,7 @@ a:hover { text-decoration: none; }
      padding-top: 10px;
   }
 .navbar-default .navbar-toggle .icon-bar {
-    background: #a4c639;
+    background: #575527;
     border-color: transparent;
   }
 .navbar-default .navbar-toggle:hover,
@@ -164,7 +164,7 @@ a:hover { text-decoration: none; }
 }
 .tm-home-logo {
 	font-size: 64px;
-	color: #9C0;
+	color: #575527;
 }
 .tm-home-header {
   font-size: 36px;
@@ -186,7 +186,7 @@ a:hover { text-decoration: none; }
   -webkit-transition: all 0.4s ease-in-out;
           transition: all 0.4s ease-in-out;
 }
-.tm-home .btn:hover { background: #a4c639; }
+.tm-home .btn:hover { background: #928e5e; }
 
 /* social icons section */
 .tm-icons .media .media-heading { padding-bottom: 10px; }
@@ -206,7 +206,7 @@ a:hover { text-decoration: none; }
           transition: all 0.4s ease-in-out;
 }
 .tm-icons a {
-  border: 2px solid #a4c639;
+  border: 2px solid #575527;
   border-radius: 50%;
   color: #202020;
   font-size: 24px;
@@ -216,10 +216,10 @@ a:hover { text-decoration: none; }
   margin-right: 10px;
   background-color: #fff;
 }
-.tm-icons .tm-icon-1 { border-left: 4px solid #a4c639; }
+.tm-icons .tm-icon-1 { border-left: 4px solid #575527; }
 .tm-icons .tm-icon-1,
 .tm-icons .tm-icon-2 {
-  border-right: 1px solid #f9f9f9;
+  border-right: 1px solid #ddd39c;
 }
 .tm-icons .tm-icon-1:hover { background: #9C9; }
 .tm-icons .tm-icon-2:hover { background: #9CF; }
@@ -235,7 +235,7 @@ a:hover { text-decoration: none; }
   background: #ffffff;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
-  border-right: 4px solid #a4c639;
+  border-right: 4px solid #575527;
   padding: 60px;
   position: relative;
   top: 70px;
@@ -245,13 +245,13 @@ a:hover { text-decoration: none; }
   background: #ffffff;
   -webkit-box-shadow: 0 0 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 0 8px 0 rgba(50, 50, 50, 0.08);
-  border-left: 4px solid #a4c639;
+  border-left: 4px solid #575527;
   padding: 40px 20px 40px 20px;
   position: relative;
   top: 140px;
 }
 .tm-about .about-skills { padding-top: 40px; }
-.about-skills .progress-bar-primary { background: #a4c639; }
+.about-skills .progress-bar-primary { background: #575527; }
 .tm-about .about-skills .progress {
   background: #f9f9f9;
   -webkit-box-shadow: none;
@@ -278,7 +278,7 @@ a:hover { text-decoration: none; }
 .tm-service .border-right { border-right: 1px solid #f9f9f9; }
 .tm-service .border-bottom { border-bottom: 1px solid #f9f9f9; }
 .tm-service .fa {
-  border-right: 2px solid #a4c639;
+  border-right: 2px solid #575527;
   border-left: 2px solid #202020;
   border-radius: 50%;
   font-size: 30px;
@@ -321,9 +321,9 @@ a:hover { text-decoration: none; }
   margin-bottom: 50px;
 }
 .tm-team .media .media-body { padding: 40px 20px 35px 20px; }
-.tm-team .media .border-right { border-right: 4px solid #a4c639; }
+.tm-team .media .border-right { border-right: 4px solid #575527; }
 .tm-team-member-heading-2 {
-  color: #a4c639;
+  color: #575527;
   font-weight: bold;
 }
 
@@ -362,7 +362,7 @@ a:hover { text-decoration: none; }
 .filter-wrapper li .selected,
 .filter-wrapper li a:focus,
 .filter-wrapper li a:hover {
-    color: #a4c639;
+    color: #575527;
   }
 
 /* ISOTOPE BOX CSS */
@@ -420,7 +420,7 @@ a:hover { text-decoration: none; }
   padding: 20px 0 20px 0;
 }
 .tm-price .plan .btn {
-  background: #a4c639;
+  background: #575527;
   border: none;
   border-radius: 0;
   color: #ffffff;
@@ -444,7 +444,7 @@ a:hover { text-decoration: none; }
   background: #ffffff;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
-  border-left: 4px solid #a4c639;
+  border-left: 4px solid #575527;
   padding-top: 60px;
   padding-left: 60px;
   padding-bottom: 120px;
@@ -462,7 +462,7 @@ a:hover { text-decoration: none; }
 }
 .tm-contact .form-control {
     border: none;
-    border-right: 4px solid #a4c639;
+    border-right: 4px solid #575527;
     -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
             box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
     border-radius: 0;
@@ -492,11 +492,11 @@ a:hover { text-decoration: none; }
 .tm-contact input { height: 50px; }
 .tm-contact input[type="text"],
 .tm-contact input[type="email"] {
-  border-left: 4px solid #a4c639;
+  border-left: 4px solid #575527;
   border-right: 0;
 }
 .tm-contact input[type="submit"] {
-  background: #a4c639;
+  background: #575527;
   border-radius: 40px;
   border: none;
   color: #ffffff;
@@ -509,7 +509,7 @@ a:hover { text-decoration: none; }
   color: #202020;
 }
 .tm-contact-link { color: black; }
-.tm-contact-link:hover { color: #a4c639; }
+.tm-contact-link:hover { color: #575527; }
 
 /* social icon section */
 .social-icon {
@@ -533,7 +533,7 @@ a:hover { text-decoration: none; }
           transition: all 0.4s ease-in;
 }
 .social-icon li a:hover {
-  background: #a4c639;
+  background: #575527;
   color: #ffffff;
 } 
 
@@ -566,7 +566,7 @@ footer hr { width: 80px; }
   .tm-icons .tm-icon-1,
   .tm-icons .tm-icon-2,
   .tm-icons .tm-icon-3 {
-	  border-left: 4px solid #a4c639;
+	  border-left: 4px solid #575527;
 	  margin: 15px;
   }
   .tm-icons .tm-icon-1 {
