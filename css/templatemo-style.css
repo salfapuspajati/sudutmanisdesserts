@@ -574,9 +574,9 @@ footer hr { width: 80px; }
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 100px) {
   .site-logo {
-    height: 30px;
+    height: 10px;
     padding-left: 3px;    
   }
   .tm-about-logo { font-size: 36px; }
