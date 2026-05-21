@@ -573,6 +573,18 @@ footer hr { width: 80px; }
 	  margin-top: -40px;
   }
 }
+.area-maps-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 30px;
+}
+
+.area-maps-logo img {
+    max-width: 250px;
+    height: auto;
+}
 
 @media (max-width: 100px) {
   .site-logo {
