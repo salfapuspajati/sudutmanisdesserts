@@ -574,7 +574,7 @@ footer hr { width: 80px; }
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 300px) {
   .site-logo {
     height: 30px;
     padding-left: 3px;    
