@@ -623,3 +623,11 @@ h1, h2, h3, h4, h5, h6, .navbar-nav a {
     font-family: 'Cormorant Garamond', serif !important;
     font-weight: 600;
 }
+
+/* Memaksa teks daftar bundling kue memakai font Nunito */
+.plan-features li, 
+.pricing-table li, 
+.pricing-box li, 
+.plan li {
+    font-family: 'Nunito', sans-serif !important;
+}
