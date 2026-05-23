@@ -631,3 +631,8 @@ h1, h2, h3, h4, h5, h6, .navbar-nav a {
 .plan li {
     font-family: 'Nunito', sans-serif !important;
 }
+
+/* Mengubah font di dalam kotak input form menjadi Nunito */
+input, textarea, select, button {
+    font-family: 'Nunito', sans-serif !important;
+}
