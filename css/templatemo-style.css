@@ -71,7 +71,8 @@ a:hover { text-decoration: none; }
 .sk-spinner-rotating-plane.sk-spinner {
   width: 30px;
   height: 30px;
-  background-color: #e8foa2;
+  background-color: #928e5e
+	;
   -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
           animation: sk-rotatePlane 1.2s infinite ease-in-out; }
 
