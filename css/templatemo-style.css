@@ -617,3 +617,9 @@ footer hr { width: 80px; }
   .tm-team .media .border-right { border-right: 0; }
   .tm-contact .contact-form { padding-top: 140px; }
 }
+
+/* Mengubah font judul menjadi Cormorant Garamond */
+h1, h2, h3, h4, h5, h6, .navbar-nav a {
+    font-family: 'Cormorant Garamond', serif !important;
+    font-weight: 600;
+}
